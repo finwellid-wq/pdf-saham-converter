@@ -1,9 +1,0 @@
-{
-  "buildCommand": "pip install -r requirements.txt",
-  "outputDirectory": ".",
-  "functions": {
-    "api/**": {
-      "runtime": "python3.11"
-    }
-  }
-}
